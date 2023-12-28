@@ -1,4 +1,4 @@
-module pq
+module github.com/codeyzcom/priorityqueue
 
 go 1.21
 
