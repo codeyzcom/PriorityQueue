@@ -1,4 +1,4 @@
-module github.com/codeyzcom/priorityqueue
+module github.com/codeyzcom/priorityqueue/v0.0.1
 
 go 1.21
 
